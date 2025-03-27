@@ -1,0 +1,256 @@
+Review_ID,Customer_Name,Product,Review_Text,Rating,Date
+R-1000,Sara,Smartwatch,"Average quality, not worth the price.",5,2024-01-01
+R-1001,Usman,Headphones,Great product! Highly recommend.,-1,2024-01-02
+R-1002,Ahmed,Smartwatch,Worst purchase ever! Do not buy.,5,2024-01-03
+R-1003,Usman,Headphones,The product stopped working after a week.,5,2024-01-04
+R-1004,Usman,Mobile,Worst purchase ever! Do not buy.,5,2024-01-05
+R-1005,Fatima,Headphones,Worst purchase ever! Do not buy.,-1,2024-01-06
+R-1006,Ahmed,Headphones,Worst purchase ever! Do not buy.,2,2024-01-07
+R-1007,Ahmed,Smartwatch,"Satisfactory, but could be better.",3,2024-01-08
+R-1008,Ahmed,Smartwatch,Worst purchase ever! Do not buy.,1,2024-01-09
+R-1009,Usman,Laptop,"Average quality, not worth the price.",5,2024-01-10
+R-1010,Sara,Laptop,Great product! Highly recommend.,6,2024-01-11
+R-1011,Ahmed,Mobile,Excellent value for money!,1,2024-01-12
+R-1012,Ayesha,Laptop,Worst purchase ever! Do not buy.,6,2024-01-13
+R-1013,Usman,Headphones,The product stopped working after a week.,1,2024-01-14
+R-1014,Fatima,Smartwatch,,3,2024-01-15
+R-1015,,Laptop,The product stopped working after a week.,5,2024-01-16
+R-1016,Ayesha,Laptop,"Average quality, not worth the price.",5,2024-01-17
+R-1017,Ayesha,Mobile,The product stopped working after a week.,4,2024-01-18
+R-1018,Fatima,Mobile,Excellent value for money!,6,2024-01-19
+R-1019,Sara,Headphones,Great product! Highly recommend.,1,2024-01-20
+R-1020,Usman,Smartwatch,The product stopped working after a week.,1,2024-01-21
+R-1021,Ali,Mobile,The product stopped working after a week.,2,2024-01-22
+R-1022,Sara,Laptop,,4,2024-01-23
+R-1023,Fatima,Smartwatch,Excellent value for money!,-1,2024-01-24
+R-1024,Ayesha,Smartwatch,Worst purchase ever! Do not buy.,-1,2024-01-25
+R-1025,Usman,Laptop,The product stopped working after a week.,2,2024-01-26
+R-1026,Sara,Mobile,Great product! Highly recommend.,2,2024-01-27
+R-1027,Ali,Laptop,"Average quality, not worth the price.",2,2024-01-28
+R-1028,Ali,Smartwatch,Great product! Highly recommend.,6,2024-01-29
+R-1029,Ahmed,Tablet,"Average quality, not worth the price.",6,2024-01-30
+R-1030,Ahmed,Tablet,Excellent value for money!,3,2024-01-31
+R-1031,Fatima,Headphones,Worst purchase ever! Do not buy.,3,2024-02-01
+R-1032,Sara,Laptop,Great product! Highly recommend.,2,2024-02-02
+R-1033,Sara,Laptop,"Satisfactory, but could be better.",4,2024-02-03
+R-1034,Ayesha,Headphones,The product stopped working after a week.,1,2024-02-04
+R-1035,Ayesha,Headphones,Excellent value for money!,6,2024-02-05
+R-1036,Ayesha,Headphones,Great product! Highly recommend.,4,2024-02-06
+R-1037,Ahmed,Smartwatch,The product stopped working after a week.,5,2024-02-07
+R-1038,Sara,Laptop,Great product! Highly recommend.,6,2024-02-08
+R-1039,Sara,Smartwatch,"Average quality, not worth the price.",6,2024-02-09
+R-1040,,Headphones,Great product! Highly recommend.,3,2024-02-10
+R-1041,Ahmed,Laptop,"Satisfactory, but could be better.",1,2024-02-11
+R-1042,Usman,Smartwatch,Great product! Highly recommend.,1,2024-02-12
+R-1043,Ahmed,Smartwatch,Great product! Highly recommend.,-1,2024-02-13
+R-1044,Usman,Headphones,"Satisfactory, but could be better.",-1,2024-02-14
+R-1045,Ali,Laptop,Excellent value for money!,-1,2024-02-15
+R-1046,Fatima,Headphones,Great product! Highly recommend.,-1,2024-02-16
+R-1047,,Laptop,"Satisfactory, but could be better.",5,2024-02-17
+R-1048,Ali,Tablet,The product stopped working after a week.,5,2024-02-18
+R-1049,,Mobile,"Average quality, not worth the price.",6,2024-02-19
+R-1050,Ayesha,Mobile,"Average quality, not worth the price.",2,2024-02-20
+R-1051,Fatima,Mobile,Great product! Highly recommend.,3,2024-02-21
+R-1052,Fatima,Headphones,Excellent value for money!,3,2024-02-22
+R-1053,Ali,Tablet,Excellent value for money!,-1,2024-02-23
+R-1054,Fatima,Laptop,The product stopped working after a week.,6,2024-02-24
+R-1055,Usman,Smartwatch,Great product! Highly recommend.,4,2024-02-25
+R-1056,Fatima,Laptop,"Average quality, not worth the price.",2,2024-02-26
+R-1057,,Smartwatch,Excellent value for money!,6,2024-02-27
+R-1058,Sara,Laptop,Great product! Highly recommend.,2,2024-02-28
+R-1059,Sara,Tablet,Excellent value for money!,2,2024-02-29
+R-1060,Sara,Smartwatch,"Satisfactory, but could be better.",2,2024-03-01
+R-1061,Usman,Headphones,Excellent value for money!,6,2024-03-02
+R-1062,Ahmed,Laptop,"Average quality, not worth the price.",-1,2024-03-03
+R-1063,Ayesha,Laptop,Worst purchase ever! Do not buy.,3,2024-03-04
+R-1064,Ali,Smartwatch,The product stopped working after a week.,3,2024-03-05
+R-1065,Sara,Headphones,The product stopped working after a week.,-1,2024-03-06
+R-1066,Fatima,Headphones,"Average quality, not worth the price.",2,2024-03-07
+R-1067,Sara,Tablet,Excellent value for money!,4,2024-03-08
+R-1068,Fatima,Headphones,Great product! Highly recommend.,1,2024-03-09
+R-1069,Ayesha,Headphones,Excellent value for money!,6,2024-03-10
+R-1070,,Headphones,"Average quality, not worth the price.",1,2024-03-11
+R-1071,Ayesha,Mobile,The product stopped working after a week.,-1,2024-03-12
+R-1072,Fatima,Tablet,Excellent value for money!,4,2024-03-13
+R-1073,Sara,Laptop,The product stopped working after a week.,6,2024-03-14
+R-1074,Ayesha,Smartwatch,Great product! Highly recommend.,-1,2024-03-15
+R-1075,Usman,Laptop,The product stopped working after a week.,2,2024-03-16
+R-1076,Fatima,Tablet,The product stopped working after a week.,3,2024-03-17
+R-1077,Fatima,Smartwatch,Worst purchase ever! Do not buy.,1,2024-03-18
+R-1078,Sara,Tablet,Worst purchase ever! Do not buy.,5,2024-03-19
+R-1079,Fatima,Headphones,"Satisfactory, but could be better.",5,2024-03-20
+R-1080,Fatima,Smartwatch,Worst purchase ever! Do not buy.,4,2024-03-21
+R-1081,Ayesha,Headphones,The product stopped working after a week.,2,2024-03-22
+R-1082,Sara,Laptop,"Average quality, not worth the price.",1,2024-03-23
+R-1083,Ayesha,Laptop,The product stopped working after a week.,2,2024-03-24
+R-1084,Ayesha,Smartwatch,"Average quality, not worth the price.",1,2024-03-25
+R-1085,Sara,Smartwatch,"Average quality, not worth the price.",4,2024-03-26
+R-1086,Ali,Tablet,Worst purchase ever! Do not buy.,4,2024-03-27
+R-1087,Ayesha,Tablet,Excellent value for money!,5,2024-03-28
+R-1088,Usman,Headphones,Great product! Highly recommend.,2,2024-03-29
+R-1089,Usman,Smartwatch,Worst purchase ever! Do not buy.,6,2024-03-30
+R-1090,Fatima,Laptop,Worst purchase ever! Do not buy.,5,2024-03-31
+R-1091,Usman,Tablet,Excellent value for money!,2,2024-04-01
+R-1092,Fatima,Tablet,Great product! Highly recommend.,5,2024-04-02
+R-1093,Ali,Laptop,,6,2024-04-03
+R-1094,Sara,Tablet,"Satisfactory, but could be better.",3,2024-04-04
+R-1095,Sara,Headphones,"Satisfactory, but could be better.",3,2024-04-05
+R-1096,Sara,Smartwatch,The product stopped working after a week.,3,2024-04-06
+R-1097,Usman,Laptop,Worst purchase ever! Do not buy.,3,2024-04-07
+R-1098,Ali,Smartwatch,Great product! Highly recommend.,-1,2024-04-08
+R-1099,Usman,Tablet,Worst purchase ever! Do not buy.,1,2024-04-09
+R-1100,Usman,Tablet,"Average quality, not worth the price.",-1,2024-04-10
+R-1101,Ali,Laptop,Worst purchase ever! Do not buy.,-1,2024-04-11
+R-1102,Ali,Headphones,Worst purchase ever! Do not buy.,-1,2024-04-12
+R-1103,Ali,Mobile,The product stopped working after a week.,3,2024-04-13
+R-1104,Ali,Laptop,The product stopped working after a week.,6,2024-04-14
+R-1105,Sara,Mobile,The product stopped working after a week.,4,2024-04-15
+R-1106,Ahmed,Mobile,"Satisfactory, but could be better.",4,2024-04-16
+R-1107,Ahmed,Headphones,"Average quality, not worth the price.",1,2024-04-17
+R-1108,Ali,Mobile,The product stopped working after a week.,3,2024-04-18
+R-1109,Ahmed,Mobile,Great product! Highly recommend.,3,2024-04-19
+R-1110,Ahmed,Headphones,"Satisfactory, but could be better.",3,2024-04-20
+R-1111,Ali,Mobile,Excellent value for money!,5,2024-04-21
+R-1112,Ahmed,Mobile,Great product! Highly recommend.,2,2024-04-22
+R-1113,Usman,Mobile,Great product! Highly recommend.,5,2024-04-23
+R-1114,Fatima,Laptop,The product stopped working after a week.,2,2024-04-24
+R-1115,Fatima,Laptop,Excellent value for money!,3,2024-04-25
+R-1116,Ali,Laptop,,3,2024-04-26
+R-1117,Sara,Headphones,"Satisfactory, but could be better.",5,2024-04-27
+R-1118,Ali,Tablet,Excellent value for money!,5,2024-04-28
+R-1119,Sara,Mobile,"Average quality, not worth the price.",2,2024-04-29
+R-1120,Fatima,Mobile,The product stopped working after a week.,4,2024-04-30
+R-1121,Ali,Headphones,Excellent value for money!,2,2024-05-01
+R-1122,Ayesha,Mobile,"Satisfactory, but could be better.",5,2024-05-02
+R-1123,Usman,Laptop,"Average quality, not worth the price.",6,2024-05-03
+R-1124,Ahmed,Tablet,Worst purchase ever! Do not buy.,5,2024-05-04
+R-1125,Sara,Smartwatch,Worst purchase ever! Do not buy.,6,2024-05-05
+R-1126,,Mobile,"Average quality, not worth the price.",1,2024-05-06
+R-1127,Ahmed,Laptop,"Satisfactory, but could be better.",5,2024-05-07
+R-1128,Ahmed,Smartwatch,"Average quality, not worth the price.",1,2024-05-08
+R-1129,Ali,Tablet,The product stopped working after a week.,4,2024-05-09
+R-1130,Ahmed,Smartwatch,The product stopped working after a week.,2,2024-05-10
+R-1131,Usman,Laptop,Worst purchase ever! Do not buy.,6,2024-05-11
+R-1132,Ayesha,Smartwatch,Excellent value for money!,2,2024-05-12
+R-1133,Ahmed,Headphones,"Satisfactory, but could be better.",1,2024-05-13
+R-1134,Ali,Smartwatch,Worst purchase ever! Do not buy.,6,2024-05-14
+R-1135,Usman,Mobile,Excellent value for money!,2,2024-05-15
+R-1136,Fatima,Mobile,Excellent value for money!,5,2024-05-16
+R-1137,Ayesha,Headphones,The product stopped working after a week.,3,2024-05-17
+R-1138,Ahmed,Laptop,Great product! Highly recommend.,1,2024-05-18
+R-1139,Ali,Mobile,Great product! Highly recommend.,2,2024-05-19
+R-1140,Fatima,Tablet,"Average quality, not worth the price.",1,2024-05-20
+R-1141,Fatima,Mobile,The product stopped working after a week.,-1,2024-05-21
+R-1142,Sara,Mobile,Excellent value for money!,1,2024-05-22
+R-1143,Usman,Laptop,"Satisfactory, but could be better.",6,2024-05-23
+R-1144,Ahmed,Smartwatch,Great product! Highly recommend.,-1,2024-05-24
+R-1145,Ali,Mobile,Excellent value for money!,6,2024-05-25
+R-1146,Sara,Headphones,Great product! Highly recommend.,3,2024-05-26
+R-1147,Usman,Smartwatch,Great product! Highly recommend.,-1,2024-05-27
+R-1148,Sara,Tablet,Great product! Highly recommend.,5,2024-05-28
+R-1149,Ayesha,Laptop,"Satisfactory, but could be better.",1,2024-05-29
+R-1150,Usman,Tablet,The product stopped working after a week.,2,2024-05-30
+R-1151,Usman,Smartwatch,"Satisfactory, but could be better.",4,2024-05-31
+R-1152,Ahmed,Smartwatch,Worst purchase ever! Do not buy.,1,2024-06-01
+R-1153,Usman,Smartwatch,Excellent value for money!,1,2024-06-02
+R-1154,Sara,Tablet,The product stopped working after a week.,3,2024-06-03
+R-1155,Usman,Smartwatch,The product stopped working after a week.,5,2024-06-04
+R-1156,Ahmed,Tablet,The product stopped working after a week.,4,2024-06-05
+R-1157,Ahmed,Smartwatch,The product stopped working after a week.,-1,2024-06-06
+R-1158,Ayesha,Headphones,"Satisfactory, but could be better.",-1,2024-06-07
+R-1159,Sara,Smartwatch,The product stopped working after a week.,-1,2024-06-08
+R-1160,Fatima,Tablet,"Average quality, not worth the price.",6,2024-06-09
+R-1161,Fatima,Mobile,Excellent value for money!,6,2024-06-10
+R-1162,Usman,Smartwatch,The product stopped working after a week.,2,2024-06-11
+R-1163,Ayesha,Mobile,,4,2024-06-12
+R-1164,Ali,Headphones,"Average quality, not worth the price.",-1,2024-06-13
+R-1165,Usman,Laptop,"Average quality, not worth the price.",6,2024-06-14
+R-1166,,Headphones,Excellent value for money!,2,2024-06-15
+R-1167,Sara,Smartwatch,Great product! Highly recommend.,5,2024-06-16
+R-1168,Sara,Mobile,Worst purchase ever! Do not buy.,2,2024-06-17
+R-1169,Sara,Mobile,Great product! Highly recommend.,6,2024-06-18
+R-1170,Sara,Tablet,Great product! Highly recommend.,3,2024-06-19
+R-1171,Sara,Mobile,"Satisfactory, but could be better.",3,2024-06-20
+R-1172,Ayesha,Tablet,Great product! Highly recommend.,-1,2024-06-21
+R-1173,Ayesha,Laptop,The product stopped working after a week.,3,2024-06-22
+R-1174,Ahmed,Smartwatch,"Satisfactory, but could be better.",-1,2024-06-23
+R-1175,Fatima,Tablet,"Satisfactory, but could be better.",-1,2024-06-24
+R-1176,Sara,Laptop,"Average quality, not worth the price.",6,2024-06-25
+R-1177,Ali,Mobile,Great product! Highly recommend.,3,2024-06-26
+R-1178,Ayesha,Mobile,"Average quality, not worth the price.",-1,2024-06-27
+R-1179,Ali,Laptop,Excellent value for money!,4,2024-06-28
+R-1180,Ali,Mobile,Worst purchase ever! Do not buy.,5,2024-06-29
+R-1181,Ali,Laptop,"Satisfactory, but could be better.",2,2024-06-30
+R-1182,Ahmed,Tablet,Excellent value for money!,2,2024-07-01
+R-1183,Ayesha,Tablet,Excellent value for money!,6,2024-07-02
+R-1184,Ali,Laptop,The product stopped working after a week.,3,2024-07-03
+R-1185,Sara,Tablet,Worst purchase ever! Do not buy.,3,2024-07-04
+R-1186,Usman,Tablet,Excellent value for money!,-1,2024-07-05
+R-1187,Ali,Tablet,Excellent value for money!,1,2024-07-06
+R-1188,Ahmed,Headphones,Worst purchase ever! Do not buy.,-1,2024-07-07
+R-1189,Ayesha,Smartwatch,Worst purchase ever! Do not buy.,5,2024-07-08
+R-1190,Ahmed,Mobile,Excellent value for money!,4,2024-07-09
+R-1191,Ali,Headphones,Worst purchase ever! Do not buy.,2,2024-07-10
+R-1192,Ayesha,Tablet,Excellent value for money!,-1,2024-07-11
+R-1193,Usman,Laptop,Excellent value for money!,1,2024-07-12
+R-1194,Ali,Tablet,The product stopped working after a week.,1,2024-07-13
+R-1195,,Smartwatch,Great product! Highly recommend.,-1,2024-07-14
+R-1196,Fatima,Tablet,Excellent value for money!,6,2024-07-15
+R-1197,Sara,Laptop,"Average quality, not worth the price.",2,2024-07-16
+R-1198,,Smartwatch,"Satisfactory, but could be better.",6,2024-07-17
+R-1199,Ayesha,Tablet,Great product! Highly recommend.,4,2024-07-18
+R-1200,Ali,Smartwatch,Great product! Highly recommend.,1,2024-07-19
+R-1201,Sara,Mobile,Great product! Highly recommend.,1,2024-07-20
+R-1202,Ali,Mobile,The product stopped working after a week.,5,2024-07-21
+R-1203,Ayesha,Tablet,Excellent value for money!,4,2024-07-22
+R-1204,Ali,Smartwatch,The product stopped working after a week.,1,2024-07-23
+R-1205,Fatima,Laptop,Excellent value for money!,4,2024-07-24
+R-1206,Sara,Tablet,The product stopped working after a week.,2,2024-07-25
+R-1207,Sara,Mobile,The product stopped working after a week.,3,2024-07-26
+R-1208,Ayesha,Mobile,"Satisfactory, but could be better.",1,2024-07-27
+R-1209,Fatima,Tablet,"Average quality, not worth the price.",5,2024-07-28
+R-1210,Ahmed,Smartwatch,,2,2024-07-29
+R-1211,Ali,Mobile,"Satisfactory, but could be better.",-1,2024-07-30
+R-1212,Usman,Smartwatch,Worst purchase ever! Do not buy.,4,2024-07-31
+R-1213,Ali,Mobile,"Average quality, not worth the price.",-1,2024-08-01
+R-1214,Ali,Mobile,The product stopped working after a week.,6,2024-08-02
+R-1215,Ahmed,Headphones,Great product! Highly recommend.,2,2024-08-03
+R-1216,Ali,Mobile,Worst purchase ever! Do not buy.,-1,2024-08-04
+R-1217,Fatima,Laptop,Worst purchase ever! Do not buy.,1,2024-08-05
+R-1218,Fatima,Tablet,"Satisfactory, but could be better.",4,2024-08-06
+R-1219,Sara,Tablet,Worst purchase ever! Do not buy.,3,2024-08-07
+R-1220,Ayesha,Smartwatch,"Average quality, not worth the price.",2,2024-08-08
+R-1221,Usman,Mobile,,1,2024-08-09
+R-1222,Ali,Laptop,The product stopped working after a week.,5,2024-08-10
+R-1223,Ali,Smartwatch,Great product! Highly recommend.,6,2024-08-11
+R-1224,Ahmed,Headphones,"Satisfactory, but could be better.",4,2024-08-12
+R-1225,Ayesha,Smartwatch,Great product! Highly recommend.,2,2024-08-13
+R-1226,Fatima,Smartwatch,Worst purchase ever! Do not buy.,2,2024-08-14
+R-1227,Usman,Mobile,Great product! Highly recommend.,3,2024-08-15
+R-1228,Sara,Headphones,"Average quality, not worth the price.",3,2024-08-16
+R-1229,Fatima,Smartwatch,The product stopped working after a week.,5,2024-08-17
+R-1230,Ayesha,Laptop,Worst purchase ever! Do not buy.,6,2024-08-18
+R-1231,Sara,Laptop,Great product! Highly recommend.,5,2024-08-19
+R-1232,Ahmed,Tablet,"Satisfactory, but could be better.",1,2024-08-20
+R-1233,Ahmed,Headphones,"Average quality, not worth the price.",1,2024-08-21
+R-1234,Ali,Headphones,,5,2024-08-22
+R-1235,Ayesha,Tablet,Great product! Highly recommend.,6,2024-08-23
+R-1236,Usman,Smartwatch,The product stopped working after a week.,5,2024-08-24
+R-1237,Sara,Headphones,Great product! Highly recommend.,6,2024-08-25
+R-1238,Fatima,Laptop,Worst purchase ever! Do not buy.,6,2024-08-26
+R-1239,Ayesha,Laptop,Great product! Highly recommend.,-1,2024-08-27
+R-1240,Ayesha,Mobile,"Average quality, not worth the price.",4,2024-08-28
+R-1241,Ahmed,Headphones,Great product! Highly recommend.,6,2024-08-29
+R-1242,Ali,Smartwatch,The product stopped working after a week.,3,2024-08-30
+R-1243,Ali,Tablet,"Satisfactory, but could be better.",6,2024-08-31
+R-1244,Sara,Tablet,Excellent value for money!,6,2024-09-01
+R-1245,Ahmed,Smartwatch,Great product! Highly recommend.,6,2024-09-02
+R-1246,Ayesha,Mobile,The product stopped working after a week.,-1,2024-09-03
+R-1247,Usman,Tablet,The product stopped working after a week.,-1,2024-09-04
+R-1248,Ahmed,Headphones,"Satisfactory, but could be better.",1,2024-09-05
+R-1249,Sara,Mobile,"Average quality, not worth the price.",-1,2024-09-06
+R-1142,Sara,Mobile,Excellent value for money!,1,2024-05-22
+R-1006,Ahmed,Headphones,Worst purchase ever! Do not buy.,2,2024-01-07
+R-1097,Usman,Laptop,Worst purchase ever! Do not buy.,3,2024-04-07
+R-1060,Sara,Smartwatch,"Satisfactory, but could be better.",2,2024-03-01
+R-1112,Ahmed,Mobile,Great product! Highly recommend.,2,2024-04-22
